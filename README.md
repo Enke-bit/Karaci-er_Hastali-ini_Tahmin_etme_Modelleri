@@ -46,7 +46,7 @@ Precision (0/1): 0.83 / 0.80
 Recall (0/1): 0.76 / 0.85
 F1-score (0/1): 0.79 / 0.82
 
-## Bu çalışma, karaçiğer hastalığı tahmininde Rastgele Ormanlar modelinin en yüksek doğruluğu (%89.7) sağladığını göstermiştir. Bu model, hem hassasiyet hem de geri çağırma açısından diğer modellere göre daha üstün performans sergilemiştir. Yapay Sinir Ağları da (%85.3) yüksek bir doğruluk elde etmiş olup, ikinci en iyi performans gösteren model olarak belirlenmiştir.
+# Bu çalışma, karaçiğer hastalığı tahmininde Rastgele Ormanlar modelinin en yüksek doğruluğu (%89.7) sağladığını göstermiştir. Bu model, hem hassasiyet hem de geri çağırma açısından diğer modellere göre daha üstün performans sergilemiştir. Yapay Sinir Ağları da (%85.3) yüksek bir doğruluk elde etmiş olup, ikinci en iyi performans gösteren model olarak belirlenmiştir.
 
 ## Diğer modellerin performansı ise genel olarak %77 ile %84 arasında değişmektedir. Bu modellerin her birinin güçlü ve zayıf yönleri dikkate alınarak, gelecek çalışmalarda daha ileri düzeyde doğruluk ve güvenilirlik sağlayacak yeni yöntemlerin araştırılması önerilmektedir.
 
